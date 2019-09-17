@@ -1,6 +1,6 @@
-# Qlik Programing Challenge
+# Programing Challenge
 
-These programming challenges are used as a portion of the interview process at Qlik.
+These programming challenges are used as a portion of the interview process.
 
 **Note:** There are no trick questions, however there are some ways to go above and beyond the strict requirements of the question that can speak to the creativity of the candidate.
 
